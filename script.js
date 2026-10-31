@@ -1,3 +1,2 @@
-function showMessage( ){
-   alert("Javascript file Linked with HTML page Successfully!");
-}
+console.log("JavaScript file successfully linked!"); 
+alert("Hello CSE - the external JavaScript file!");
